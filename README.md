@@ -32,4 +32,4 @@ Your sorting methods are stored as separate files in the `scripts` folder.
 
 ### Quick sort
 
-[![Quick sort](https://img.youtube.com/vi/aQiWF4E8flQ/maxresdefault.jpg)](https://www.youtube.com/embed/aQiWF4E8flQ)
+[![Quick sort](https://img.youtube.com/vi/ZHVk2blR45Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZHVk2blR45Q)
